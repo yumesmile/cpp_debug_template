@@ -1,0 +1,3 @@
+[submodule "mahi-gui"]
+	path = mahi-gui
+	url = https://github.com/yumesmile/mahi-gui.git
